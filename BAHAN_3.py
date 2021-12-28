@@ -145,8 +145,7 @@ def clear():
 # LOGO
 
 def banner():
-	print("""
-\x1b[1;92m    __  ___ ______  __☆☆☆☆☆☆☆☆☆☆___ ______ ® 
+	print("""\x1b[1;92m    __  ___ ______  __☆☆☆☆☆☆☆☆☆☆___ ______ ® 
 \x1b[1;92m   /  \/   /__    )/  /__  ____/   /__    ) 
 \x1b[1;92m  /       /___)   /  __  )  ___   /___)   / 
 \x1b[1;96m /  /\/  /  __   /  / /  / (__/  /  __   / 
@@ -155,8 +154,7 @@ def banner():
 \x1b[1;96m╔══◍➤Desigen By : Raka Andrian Tara
 \x1b[1;96m╠══◍➤Github     : https://github.com/Garangan-Z
 \x1b[1;96m╚══◍➤Instagram  : raka_andrian27
-\x1b[1;95m=================================================
-""")
+\x1b[1;95m=================================================.""")
 
 MAX_IPV4 = ipaddress.IPv4Address._ALL_ONES # IP
 MAX_IPV6 = ipaddress.IPv6Address._ALL_ONES # IP
