@@ -165,10 +165,6 @@ def banner():
 \033[97;1m[ \033[92;1mGithub   \033[97;1m: \033[93;1mHttps://github.com/YumasaaTzy
 \033[97;1m[ \033[92;1mFacebook \033[97;1m: \033[93;1mO'Hayo Smrn \033[97;1m[\033[92;1mFollow Me Facebook\033[97;1m]
 \033[97;1m\033[92;1m---------------------------------------------------------
-\033[97;1m[ \033[92;1mScript Crack Facebook Yang Kaya Akan Teh Hijau
-\033[97;1m[ \033[92;1mTeam \033[97;1m: \033[93;1mXNX\033[97;1m-\033[93;1mCODE Team 2021
-\033[97;1m[ \033[92;1mFollow Me Facebook And Github \033[97;1m[\033[92;1m(>•,•<)\033[97;1m]
-\033[92;1m----------------------------------------------------------
 """)
 
 MAX_IPV4 = ipaddress.IPv4Address._ALL_ONES # IP
