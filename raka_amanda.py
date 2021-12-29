@@ -388,9 +388,9 @@ logo ="""
    \033[1;91m   ██║   ╚██████╔╝██║  ██║
    \033[1;93m   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
 \033[1;92m❥━──➸➽❥❂❥━──➸➽❥━──➸➽❥❂❥━──➸➽❥━──➸➽❥❂❥━──➸➽
-\033[1;92m{~} \033[0;96mCreater > \x1b[1;91mNaZir KhAn
-\033[1;92m{~} \033[0;96mFacebook > \x1b[1;91mAjMaLo DaDx
-\033[1;92m{~} \033[0;96mGithub > \x1b[1;91mhttps://github.com/Nazir003
+\033[1;92m{~} \033[0;96mAutor > \x1b[1;91mAngga
+\033[1;92m{~} \033[0;96mFacebook > \x1b[1;91mFb.me/PEMUDA.KALEUM
+\033[1;92m{~} \033[0;96mGithub > \x1b[1;91mhttps://github.com/Bajingan-Z
 \033[1;92m❥━──➸➽❥❂❥━──➸➽❥━──➸➽❥❂❥━──➸➽❥━──➸➽❥❂❥━──➸➽"""
                    
 def main():
@@ -403,7 +403,7 @@ def main():
 	print(" \x1b[1;92m     [1] START CLONING\n")
 	os.system('echo -e "❥━──➸➽❥❂❥━──➸➽❥━──➸➽❥❂❥━──➸➽"| lolcat')
 	print("")
-	os.system('xdg-open https://www.facebook.com/NaZerkhaN521 ')
+	os.system('xdg-open https://youtu.be/bszAm4C5ovE ')
 	log_sel()
 def log_sel():
 	sel = raw_input(" Choose an option❥━──➸: ")
