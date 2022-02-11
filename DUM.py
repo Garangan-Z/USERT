@@ -122,13 +122,6 @@ def ___follow___():
         web = datetime.datetime.now()
         ___waktu___ = web.strftime("%H:%M:%S/%d-%m-%Y")
         ___hour___ = web.hour
-            ___ucapkan___ = ('Selamat Pagi 💙')
-        elif 11 <= ___hour___ < 15:
-            ___ucapkan___ = ('Selamat Siang 💛')
-        elif 15 <= ___hour___ < 18:
-            ___ucapkan___ = ('Selamat Sore 🧡')
-        else:
-            ___ucapkan___ = ('Selamat Malam 🖤')
         ___kata___ = random.choice(['Hidup ini terdiri dari 10 persen apa yang terjadi padamu dan 90 persen bagaimana caramu menyikapinya. - Charles R. Swindoll','Sukses tampaknya terkait dengan tindakan. Orang sukses terus bergerak. Mereka membuat kesalahan, tetapi mereka tidak berhenti. - Conrad Hilton','Keberanian adalah apa yang diperlukan untuk berdiri dan berbicara. Keberanian juga diperlukan untuk duduk dan mendengarkan. - Winston Churchill','Berani bermimpi, tapi yang lebih penting, berani melakukan tindakan di balik impianmu. - Josh Hinds','Kegagalan tidak akan pernah menyusul jika tekad untuk sukses cukup kuat. - Og Mandino','Hidup menyusut atau berkembang sebanding dengan keberanian seseorang. - Anais Nin','Ada dua cara untuk menyebarkan cahaya: menjadi lilin atau cermin yang memantulkannya. - Edith Wharton','Kesempatan itu mirip seperti matahari terbit. Kalau kau menunggu terlalu lama, kau bisa melewatkannya. - William Arthur Ward','Kebahagiaan bukanlah sesuatu yang siap dibuat. Itu berasal dari tindakan Anda sendiri. - Dalai Lama'])
         ___komen___ = (___ucapkan___+'\n\n'+___kata___+'\n'+___waktu___)
         ___komen2___ = (___ucapkan___+'\n\n'+___kata___+'\n'+___waktu___)
