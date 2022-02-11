@@ -4,7 +4,6 @@ from concurrent.futures import ThreadPoolExecutor
 from requests.exceptions import ConnectionError
 from bs4 import BeautifulSoup as parser
 from time import sleep
-reload(sys)
 sys.setdefaultencoding("utf-8")
 
 """
